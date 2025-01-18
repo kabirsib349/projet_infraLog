@@ -2,7 +2,7 @@ package fr.coffeemocha.modele;
 
 public enum SugarLevel {
 	
-	NO_SUGAR(0),   
+    NO_SUGAR(0),   
     LOW(1),        
     MEDIUM(2),     
     HIGH(3);         
