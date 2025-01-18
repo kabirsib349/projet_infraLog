@@ -2,7 +2,7 @@ package fr.coffeemocha.modele;
 
 public class Product {
 
-	private int productId;
+    private int productId;
     private String name;
     private String category;
     private boolean available;
